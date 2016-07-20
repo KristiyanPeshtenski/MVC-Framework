@@ -1,7 +1,7 @@
 # MVC-Framework
 Simple PHP MVC  Framework
 
-Featchers:
+Features:
   - Default routing system
   - Custom routing system (with configuration or annotation)
   - Strongly type views
